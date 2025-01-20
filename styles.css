@@ -1,0 +1,14 @@
+main{
+    line-height: 160%;
+    max-width: 100ch;
+}
+header{
+    display: flex;
+}
+.navb{
+    height: 50px;
+}
+body{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
